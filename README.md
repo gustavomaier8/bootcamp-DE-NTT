@@ -1,1 +1,1 @@
-# bootcamp-DE-NTT
+# Scripts desenvolvidos com base nos desafios propostos nos bootcamp de Engenharia de Dados da DIO + NTT Data
